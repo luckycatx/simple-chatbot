@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Chatbot", ".", "{66FF9F08-ADD1-407F-ABFA-9D5E7EE2C594}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4308"
+		Debug.AspNetCompiler.PhysicalPath = "..\Chatbot\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4308\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4308"
+		Release.AspNetCompiler.PhysicalPath = "..\Chatbot\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4308\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4308"
+		SlnRelativePath = "..\Chatbot\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FF9F08-ADD1-407F-ABFA-9D5E7EE2C594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FF9F08-ADD1-407F-ABFA-9D5E7EE2C594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF48F755-2FB8-44F3-B682-4228052A8AEC}
+	EndGlobalSection
+EndGlobal
